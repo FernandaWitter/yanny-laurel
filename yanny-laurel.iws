@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2ce0a924-02b2-4ee8-be29-00c7554ec72b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="ProjectId" id="1fGyE8dCMtwRMoexcpduHC7UjwC" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="compactDirectories" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="sfc.junit5" />
+      <recent name="sfc" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="sfc" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="sfc.junit5" />
+      <recent name="sfc" />
+      <recent name="main.java.sfc" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.PropertiesLaurelClass">
+    <configuration name="All in yanny-laurel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yanny-laurel" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HearingInterpreterActiveProfileTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yanny-laurel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sfc.junit5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sfc.junit5" />
+      <option name="MAIN_CLASS_NAME" value="sfc.junit5.HearingInterpreterActiveProfileTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HearingInterpreterComponentScannerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yanny-laurel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sfc.junit5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sfc.junit5" />
+      <option name="MAIN_CLASS_NAME" value="sfc.junit5.HearingInterpreterComponentScannerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HearingInterpreterPropertiesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yanny-laurel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sfc.junit5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sfc.junit5" />
+      <option name="MAIN_CLASS_NAME" value="sfc.junit5.HearingInterpreterPropertiesTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PropertiesLaurelClass" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yanny-laurel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sfc.junit5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sfc.junit5" />
+      <option name="MAIN_CLASS_NAME" value="sfc.junit5.PropertiesLaurelClass" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PropertiesLaurelClass" />
+        <item itemvalue="JUnit.HearingInterpreterPropertiesTest" />
+        <item itemvalue="JUnit.HearingInterpreterActiveProfileTest" />
+        <item itemvalue="JUnit.All in yanny-laurel" />
+        <item itemvalue="JUnit.HearingInterpreterComponentScannerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ce0a924-02b2-4ee8-be29-00c7554ec72b" name="Default Changelist" comment="" />
+      <created>1595858609400</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595858609400</updated>
+      <workItem from="1595858613638" duration="8730000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="768" y="226" width="376" height="588" key="#com.intellij.ide.util.MemberChooser" timestamp="1595858773942">
+      <screen x="0" y="0" width="1920" height="1039" />
+    </state>
+    <state x="768" y="226" width="376" height="588" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1039@0.0.1920.1039" timestamp="1595858773942" />
+    <state x="689" y="298" width="526" height="444" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1595862678299">
+      <screen x="0" y="0" width="1920" height="1039" />
+    </state>
+    <state x="689" y="298" width="526" height="444" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1920.1039@0.0.1920.1039" timestamp="1595862678299" />
+    <state x="723" y="377" width="473" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1595859252405">
+      <screen x="0" y="0" width="1920" height="1039" />
+    </state>
+    <state x="723" y="377" width="473" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1039@0.0.1920.1039" timestamp="1595859252405" />
+    <state x="693" y="277" width="526" height="485" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1595861074943">
+      <screen x="0" y="0" width="1920" height="1039" />
+    </state>
+    <state x="693" y="277" width="526" height="485" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1920.1039@0.0.1920.1039" timestamp="1595861074943" />
+    <state x="646" y="264" width="612" height="513" key="FileChooserDialogImpl" timestamp="1595861084418">
+      <screen x="0" y="0" width="1920" height="1039" />
+    </state>
+    <state x="646" y="264" width="612" height="513" key="FileChooserDialogImpl/0.0.1920.1039@0.0.1920.1039" timestamp="1595861084418" />
+    <state width="1872" height="326" key="GridCell.Tab.0.bottom" timestamp="1595887101907">
+      <screen x="0" y="0" width="1920" height="1039" />
+    </state>
+    <state width="1872" height="326" key="GridCell.Tab.0.bottom/0.0.1920.1039@0.0.1920.1039" timestamp="1595887101907" />
+    <state width="1872" height="326" key="GridCell.Tab.0.center" timestamp="1595887101907">
+      <screen x="0" y="0" width="1920" height="1039" />
+    </state>
+    <state width="1872" height="326" key="GridCell.Tab.0.center/0.0.1920.1039@0.0.1920.1039" timestamp="1595887101907" />
+    <state width="1872" height="326" key="GridCell.Tab.0.left" timestamp="1595887101906">
+      <screen x="0" y="0" width="1920" height="1039" />
+    </state>
+    <state width="1872" height="326" key="GridCell.Tab.0.left/0.0.1920.1039@0.0.1920.1039" timestamp="1595887101906" />
+    <state width="1872" height="326" key="GridCell.Tab.0.right" timestamp="1595887101907">
+      <screen x="0" y="0" width="1920" height="1039" />
+    </state>
+    <state width="1872" height="326" key="GridCell.Tab.0.right/0.0.1920.1039@0.0.1920.1039" timestamp="1595887101907" />
+    <state x="464" y="154" width="992" height="731" key="SettingsEditor" timestamp="1595864846642">
+      <screen x="0" y="0" width="1920" height="1039" />
+    </state>
+    <state x="464" y="154" width="992" height="731" key="SettingsEditor/0.0.1920.1039@0.0.1920.1039" timestamp="1595864846642" />
+    <state x="768" y="300" width="376" height="440" key="chooseDestDirectoryDialog" timestamp="1595859238490">
+      <screen x="0" y="0" width="1920" height="1039" />
+    </state>
+    <state x="768" y="300" width="376" height="440" key="chooseDestDirectoryDialog/0.0.1920.1039@0.0.1920.1039" timestamp="1595859238490" />
+    <state x="663" y="410" width="585" height="236" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1595861217094">
+      <screen x="0" y="0" width="1920" height="1039" />
+    </state>
+    <state x="663" y="410" width="585" height="236" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1039@0.0.1920.1039" timestamp="1595861217094" />
+    <state x="734" y="295" width="444" height="449" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1595862679796">
+      <screen x="0" y="0" width="1920" height="1039" />
+    </state>
+    <state x="734" y="295" width="444" height="449" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1039@0.0.1920.1039" timestamp="1595862679796" />
+  </component>
+</project>
